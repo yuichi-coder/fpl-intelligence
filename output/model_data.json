@@ -1,0 +1,1498 @@
+{
+  "best_teams": {
+    "28": {
+      "players": [
+        {
+          "web_name": "S\u00e1nchez",
+          "team_name": "Chelsea",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.110000133514404,
+          "xgb_pts": 4.329999923706055,
+          "rf_pts": 4.16,
+          "mlp_pts": 2.450000047683716,
+          "opponent": "Arsenal",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.090000152587891,
+          "xgb_pts": 4.159999847412109,
+          "rf_pts": 3.96,
+          "mlp_pts": 2.700000047683716,
+          "opponent": "Bournemouth",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Hincapie",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 5.840000152587891,
+          "xgb_pts": 4.800000190734863,
+          "rf_pts": 3.86,
+          "mlp_pts": 5.809999942779541,
+          "opponent": "Chelsea",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mu\u00f1oz",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.9,
+          "predicted_points": 5.679999828338623,
+          "xgb_pts": 4.849999904632568,
+          "rf_pts": 4.12,
+          "mlp_pts": 5.96999979019165,
+          "opponent": "Man Utd",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Khusanov",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.4,
+          "predicted_points": 5.239999771118164,
+          "xgb_pts": 4.900000095367432,
+          "rf_pts": 3.83,
+          "mlp_pts": 2.819999933242798,
+          "opponent": "Leeds",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lewis-Potter",
+          "team_name": "Brentford",
+          "position": "Defender",
+          "now_cost": 4.8,
+          "predicted_points": 4.849999904632568,
+          "xgb_pts": 4.28000020980835,
+          "rf_pts": 3.65,
+          "mlp_pts": 4.480000019073486,
+          "opponent": "Burnley",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lacroix",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 4.650000095367432,
+          "xgb_pts": 4.28000020980835,
+          "rf_pts": 3.5,
+          "mlp_pts": 4.610000133514404,
+          "opponent": "Man Utd",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mbeumo",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "now_cost": 8.6,
+          "predicted_points": 6.320000171661377,
+          "xgb_pts": 6.21999979019165,
+          "rf_pts": 4.99,
+          "mlp_pts": 4.71999979019165,
+          "opponent": "Crystal Palace",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Saka",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "now_cost": 9.8,
+          "predicted_points": 5.920000076293945,
+          "xgb_pts": 5.380000114440918,
+          "rf_pts": 4.98,
+          "mlp_pts": 3.880000114440918,
+          "opponent": "Chelsea",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Rogers",
+          "team_name": "Aston Villa",
+          "position": "Midfielder",
+          "now_cost": 7.7,
+          "predicted_points": 5.389999866485596,
+          "xgb_pts": 5.429999828338623,
+          "rf_pts": 5.33,
+          "mlp_pts": 4.860000133514404,
+          "opponent": "Wolves",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Foden",
+          "team_name": "Man City",
+          "position": "Midfielder",
+          "now_cost": 8.1,
+          "predicted_points": 5.329999923706055,
+          "xgb_pts": 5.349999904632568,
+          "rf_pts": 4.38,
+          "mlp_pts": 4.239999771118164,
+          "opponent": "Leeds",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Enzo",
+          "team_name": "Chelsea",
+          "position": "Midfielder",
+          "now_cost": 6.8,
+          "predicted_points": 5.159999847412109,
+          "xgb_pts": 5.130000114440918,
+          "rf_pts": 4.7,
+          "mlp_pts": 4.570000171661377,
+          "opponent": "Arsenal",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Ekitik\u00e9",
+          "team_name": "Liverpool",
+          "position": "Forward",
+          "now_cost": 8.9,
+          "predicted_points": 6.860000133514404,
+          "xgb_pts": 6.329999923706055,
+          "rf_pts": 5.53,
+          "mlp_pts": 4.050000190734863,
+          "opponent": "West Ham",
+          "venue": "H",
+          "is_captain": true
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "predicted_points": 6.079999923706055,
+          "xgb_pts": 6.329999923706055,
+          "rf_pts": 5.47,
+          "mlp_pts": 4.659999847412109,
+          "opponent": "Arsenal",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Welbeck",
+          "team_name": "Brighton",
+          "position": "Forward",
+          "now_cost": 6.1,
+          "predicted_points": 5.400000095367432,
+          "xgb_pts": 5.480000019073486,
+          "rf_pts": 5.05,
+          "mlp_pts": 3.2699999809265137,
+          "opponent": "Nott'm Forest",
+          "venue": "H",
+          "is_captain": false
+        }
+      ],
+      "total_cost": 99.8,
+      "total_points": 80.9,
+      "total_with_captain": 87.8,
+      "captain": "Ekitik\u00e9"
+    },
+    "29": {
+      "players": [
+        {
+          "web_name": "S\u00e1nchez",
+          "team_name": "Chelsea",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.110000133514404,
+          "xgb_pts": 4.329999923706055,
+          "rf_pts": 4.16,
+          "mlp_pts": 2.4600000381469727,
+          "opponent": "Aston Villa",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Areola",
+          "team_name": "West Ham",
+          "position": "Goalkeeper",
+          "now_cost": 4.3,
+          "predicted_points": 3.799999952316284,
+          "xgb_pts": 3.809999942779541,
+          "rf_pts": 3.67,
+          "mlp_pts": 2.690000057220459,
+          "opponent": "Fulham",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mu\u00f1oz",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.9,
+          "predicted_points": 5.639999866485596,
+          "xgb_pts": 4.78000020980835,
+          "rf_pts": 4.1,
+          "mlp_pts": 6.0,
+          "opponent": "Spurs",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Khusanov",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.4,
+          "predicted_points": 5.510000228881836,
+          "xgb_pts": 4.949999809265137,
+          "rf_pts": 3.85,
+          "mlp_pts": 3.119999885559082,
+          "opponent": "Nott'm Forest",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Hincapie",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 5.110000133514404,
+          "xgb_pts": 4.639999866485596,
+          "rf_pts": 3.85,
+          "mlp_pts": 5.630000114440918,
+          "opponent": "Brighton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lewis-Potter",
+          "team_name": "Brentford",
+          "position": "Defender",
+          "now_cost": 4.8,
+          "predicted_points": 4.849999904632568,
+          "xgb_pts": 4.28000020980835,
+          "rf_pts": 3.64,
+          "mlp_pts": 4.46999979019165,
+          "opponent": "Bournemouth",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Botman",
+          "team_name": "Newcastle",
+          "position": "Defender",
+          "now_cost": 4.9,
+          "predicted_points": 4.46999979019165,
+          "xgb_pts": 3.869999885559082,
+          "rf_pts": 3.4,
+          "mlp_pts": 4.630000114440918,
+          "opponent": "Man Utd",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mbeumo",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "now_cost": 8.6,
+          "predicted_points": 6.210000038146973,
+          "xgb_pts": 5.960000038146973,
+          "rf_pts": 4.99,
+          "mlp_pts": 4.5,
+          "opponent": "Newcastle",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Saka",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "now_cost": 9.8,
+          "predicted_points": 5.639999866485596,
+          "xgb_pts": 5.099999904632568,
+          "rf_pts": 4.97,
+          "mlp_pts": 3.700000047683716,
+          "opponent": "Brighton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Rogers",
+          "team_name": "Aston Villa",
+          "position": "Midfielder",
+          "now_cost": 7.7,
+          "predicted_points": 5.519999980926514,
+          "xgb_pts": 5.570000171661377,
+          "rf_pts": 5.33,
+          "mlp_pts": 5.079999923706055,
+          "opponent": "Chelsea",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Foden",
+          "team_name": "Man City",
+          "position": "Midfielder",
+          "now_cost": 8.1,
+          "predicted_points": 5.409999847412109,
+          "xgb_pts": 5.559999942779541,
+          "rf_pts": 4.39,
+          "mlp_pts": 4.460000038146973,
+          "opponent": "Nott'm Forest",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Enzo",
+          "team_name": "Chelsea",
+          "position": "Midfielder",
+          "now_cost": 6.8,
+          "predicted_points": 5.159999847412109,
+          "xgb_pts": 5.130000114440918,
+          "rf_pts": 4.7,
+          "mlp_pts": 4.570000171661377,
+          "opponent": "Aston Villa",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Ekitik\u00e9",
+          "team_name": "Liverpool",
+          "position": "Forward",
+          "now_cost": 8.9,
+          "predicted_points": 8.1899995803833,
+          "xgb_pts": 6.409999847412109,
+          "rf_pts": 5.53,
+          "mlp_pts": 3.9700000286102295,
+          "opponent": "Wolves",
+          "venue": "A",
+          "is_captain": true
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "predicted_points": 6.079999923706055,
+          "xgb_pts": 6.340000152587891,
+          "rf_pts": 5.47,
+          "mlp_pts": 4.670000076293945,
+          "opponent": "Aston Villa",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Thiago",
+          "team_name": "Brentford",
+          "position": "Forward",
+          "now_cost": 7.1,
+          "predicted_points": 6.010000228881836,
+          "xgb_pts": 5.610000133514404,
+          "rf_pts": 5.42,
+          "mlp_pts": 3.6600000858306885,
+          "opponent": "Bournemouth",
+          "venue": "A",
+          "is_captain": false
+        }
+      ],
+      "total_cost": 100.0,
+      "total_points": 81.7,
+      "total_with_captain": 89.9,
+      "captain": "Ekitik\u00e9"
+    },
+    "30": {
+      "players": [
+        {
+          "web_name": "S\u00e1nchez",
+          "team_name": "Chelsea",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.110000133514404,
+          "xgb_pts": 4.300000190734863,
+          "rf_pts": 4.18,
+          "mlp_pts": 2.4200000762939453,
+          "opponent": "Newcastle",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.079999923706055,
+          "xgb_pts": 4.099999904632568,
+          "rf_pts": 3.98,
+          "mlp_pts": 2.7100000381469727,
+          "opponent": "Brighton",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mu\u00f1oz",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.9,
+          "predicted_points": 6.0,
+          "xgb_pts": 4.949999809265137,
+          "rf_pts": 4.1,
+          "mlp_pts": 6.340000152587891,
+          "opponent": "Leeds",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Hincapie",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 5.800000190734863,
+          "xgb_pts": 4.730000019073486,
+          "rf_pts": 3.85,
+          "mlp_pts": 5.760000228881836,
+          "opponent": "Everton",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Khusanov",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.4,
+          "predicted_points": 5.239999771118164,
+          "xgb_pts": 4.900000095367432,
+          "rf_pts": 3.8,
+          "mlp_pts": 2.880000114440918,
+          "opponent": "West Ham",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lewis-Potter",
+          "team_name": "Brentford",
+          "position": "Defender",
+          "now_cost": 4.8,
+          "predicted_points": 4.909999847412109,
+          "xgb_pts": 4.510000228881836,
+          "rf_pts": 3.64,
+          "mlp_pts": 4.579999923706055,
+          "opponent": "Wolves",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lacroix",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 4.670000076293945,
+          "xgb_pts": 4.309999942779541,
+          "rf_pts": 3.48,
+          "mlp_pts": 4.829999923706055,
+          "opponent": "Leeds",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mbeumo",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "now_cost": 8.6,
+          "predicted_points": 6.320000171661377,
+          "xgb_pts": 6.170000076293945,
+          "rf_pts": 4.98,
+          "mlp_pts": 4.710000038146973,
+          "opponent": "Aston Villa",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Saka",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "now_cost": 9.8,
+          "predicted_points": 5.920000076293945,
+          "xgb_pts": 5.369999885559082,
+          "rf_pts": 5.01,
+          "mlp_pts": 3.880000114440918,
+          "opponent": "Everton",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Rogers",
+          "team_name": "Aston Villa",
+          "position": "Midfielder",
+          "now_cost": 7.7,
+          "predicted_points": 5.389999866485596,
+          "xgb_pts": 5.449999809265137,
+          "rf_pts": 5.33,
+          "mlp_pts": 4.889999866485596,
+          "opponent": "Man Utd",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Enzo",
+          "team_name": "Chelsea",
+          "position": "Midfielder",
+          "now_cost": 6.8,
+          "predicted_points": 5.190000057220459,
+          "xgb_pts": 5.110000133514404,
+          "rf_pts": 4.7,
+          "mlp_pts": 4.829999923706055,
+          "opponent": "Newcastle",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Foden",
+          "team_name": "Man City",
+          "position": "Midfielder",
+          "now_cost": 8.1,
+          "predicted_points": 5.130000114440918,
+          "xgb_pts": 5.340000152587891,
+          "rf_pts": 4.38,
+          "mlp_pts": 4.230000019073486,
+          "opponent": "West Ham",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Ekitik\u00e9",
+          "team_name": "Liverpool",
+          "position": "Forward",
+          "now_cost": 8.9,
+          "predicted_points": 7.079999923706055,
+          "xgb_pts": 6.349999904632568,
+          "rf_pts": 5.53,
+          "mlp_pts": 4.019999980926514,
+          "opponent": "Spurs",
+          "venue": "H",
+          "is_captain": true
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "predicted_points": 6.789999961853027,
+          "xgb_pts": 6.409999847412109,
+          "rf_pts": 5.47,
+          "mlp_pts": 4.789999961853027,
+          "opponent": "Newcastle",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Welbeck",
+          "team_name": "Brighton",
+          "position": "Forward",
+          "now_cost": 6.1,
+          "predicted_points": 5.53000020980835,
+          "xgb_pts": 5.519999980926514,
+          "rf_pts": 5.05,
+          "mlp_pts": 3.1600000858306885,
+          "opponent": "Sunderland",
+          "venue": "A",
+          "is_captain": false
+        }
+      ],
+      "total_cost": 99.8,
+      "total_points": 82.2,
+      "total_with_captain": 89.2,
+      "captain": "Ekitik\u00e9"
+    },
+    "31": {
+      "players": [
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.079999923706055,
+          "xgb_pts": 4.079999923706055,
+          "rf_pts": 3.95,
+          "mlp_pts": 2.640000104904175,
+          "opponent": "Newcastle",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Areola",
+          "team_name": "West Ham",
+          "position": "Goalkeeper",
+          "now_cost": 4.3,
+          "predicted_points": 3.809999942779541,
+          "xgb_pts": 3.7699999809265137,
+          "rf_pts": 3.66,
+          "mlp_pts": 2.700000047683716,
+          "opponent": "Aston Villa",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "James",
+          "team_name": "Chelsea",
+          "position": "Defender",
+          "now_cost": 5.6,
+          "predicted_points": 4.889999866485596,
+          "xgb_pts": 4.760000228881836,
+          "rf_pts": 3.82,
+          "mlp_pts": 2.359999895095825,
+          "opponent": "Everton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lewis-Potter",
+          "team_name": "Brentford",
+          "position": "Defender",
+          "now_cost": 4.8,
+          "predicted_points": 4.849999904632568,
+          "xgb_pts": 4.309999942779541,
+          "rf_pts": 3.62,
+          "mlp_pts": 4.449999809265137,
+          "opponent": "Leeds",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Botman",
+          "team_name": "Newcastle",
+          "position": "Defender",
+          "now_cost": 4.9,
+          "predicted_points": 4.46999979019165,
+          "xgb_pts": 3.9200000762939453,
+          "rf_pts": 3.38,
+          "mlp_pts": 4.650000095367432,
+          "opponent": "Sunderland",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Kerkez",
+          "team_name": "Liverpool",
+          "position": "Defender",
+          "now_cost": 5.6,
+          "predicted_points": 4.25,
+          "xgb_pts": 4.110000133514404,
+          "rf_pts": 3.82,
+          "mlp_pts": 4.130000114440918,
+          "opponent": "Brighton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Bassey",
+          "team_name": "Fulham",
+          "position": "Defender",
+          "now_cost": 4.4,
+          "predicted_points": 3.8499999046325684,
+          "xgb_pts": 3.640000104904175,
+          "rf_pts": 2.88,
+          "mlp_pts": 3.9600000381469727,
+          "opponent": "Burnley",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "M.Salah",
+          "team_name": "Liverpool",
+          "position": "Midfielder",
+          "now_cost": 14.0,
+          "predicted_points": 6.690000057220459,
+          "xgb_pts": 6.420000076293945,
+          "rf_pts": 5.37,
+          "mlp_pts": 5.130000114440918,
+          "opponent": "Brighton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mbeumo",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "now_cost": 8.6,
+          "predicted_points": 6.0,
+          "xgb_pts": 5.909999847412109,
+          "rf_pts": 5.0,
+          "mlp_pts": 4.510000228881836,
+          "opponent": "Bournemouth",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Rogers",
+          "team_name": "Aston Villa",
+          "position": "Midfielder",
+          "now_cost": 7.7,
+          "predicted_points": 5.519999980926514,
+          "xgb_pts": 5.579999923706055,
+          "rf_pts": 5.33,
+          "mlp_pts": 5.110000133514404,
+          "opponent": "West Ham",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Enzo",
+          "team_name": "Chelsea",
+          "position": "Midfielder",
+          "now_cost": 6.8,
+          "predicted_points": 5.150000095367432,
+          "xgb_pts": 5.090000152587891,
+          "rf_pts": 4.7,
+          "mlp_pts": 4.550000190734863,
+          "opponent": "Everton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Minteh",
+          "team_name": "Brighton",
+          "position": "Midfielder",
+          "now_cost": 5.6,
+          "predicted_points": 4.340000152587891,
+          "xgb_pts": 4.460000038146973,
+          "rf_pts": 3.58,
+          "mlp_pts": 2.5899999141693115,
+          "opponent": "Liverpool",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Ekitik\u00e9",
+          "team_name": "Liverpool",
+          "position": "Forward",
+          "now_cost": 8.9,
+          "predicted_points": 8.1899995803833,
+          "xgb_pts": 6.420000076293945,
+          "rf_pts": 5.53,
+          "mlp_pts": 3.940000057220459,
+          "opponent": "Brighton",
+          "venue": "A",
+          "is_captain": true
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "predicted_points": 6.079999923706055,
+          "xgb_pts": 6.369999885559082,
+          "rf_pts": 5.47,
+          "mlp_pts": 4.679999828338623,
+          "opponent": "Everton",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Welbeck",
+          "team_name": "Brighton",
+          "position": "Forward",
+          "now_cost": 6.1,
+          "predicted_points": 5.53000020980835,
+          "xgb_pts": 5.489999771118164,
+          "rf_pts": 5.05,
+          "mlp_pts": 3.259999990463257,
+          "opponent": "Liverpool",
+          "venue": "H",
+          "is_captain": false
+        }
+      ],
+      "total_cost": 99.9,
+      "total_points": 77.7,
+      "total_with_captain": 85.9,
+      "captain": "Ekitik\u00e9"
+    },
+    "32": {
+      "players": [
+        {
+          "web_name": "S\u00e1nchez",
+          "team_name": "Chelsea",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.130000114440918,
+          "xgb_pts": 4.309999942779541,
+          "rf_pts": 4.18,
+          "mlp_pts": 2.440000057220459,
+          "opponent": "Man City",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "predicted_points": 4.079999923706055,
+          "xgb_pts": 4.099999904632568,
+          "rf_pts": 3.97,
+          "mlp_pts": 2.680000066757202,
+          "opponent": "Spurs",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mu\u00f1oz",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.9,
+          "predicted_points": 6.0,
+          "xgb_pts": 5.070000171661377,
+          "rf_pts": 4.11,
+          "mlp_pts": 6.380000114440918,
+          "opponent": "Newcastle",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Hincapie",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 5.800000190734863,
+          "xgb_pts": 4.75,
+          "rf_pts": 3.85,
+          "mlp_pts": 5.71999979019165,
+          "opponent": "Bournemouth",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Khusanov",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.4,
+          "predicted_points": 5.239999771118164,
+          "xgb_pts": 4.909999847412109,
+          "rf_pts": 3.81,
+          "mlp_pts": 2.9200000762939453,
+          "opponent": "Chelsea",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lewis-Potter",
+          "team_name": "Brentford",
+          "position": "Defender",
+          "now_cost": 4.8,
+          "predicted_points": 4.909999847412109,
+          "xgb_pts": 4.550000190734863,
+          "rf_pts": 3.64,
+          "mlp_pts": 4.559999942779541,
+          "opponent": "Everton",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Lacroix",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "predicted_points": 4.679999828338623,
+          "xgb_pts": 4.340000152587891,
+          "rf_pts": 3.48,
+          "mlp_pts": 4.840000152587891,
+          "opponent": "Newcastle",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Mbeumo",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "now_cost": 8.6,
+          "predicted_points": 6.320000171661377,
+          "xgb_pts": 6.179999828338623,
+          "rf_pts": 4.99,
+          "mlp_pts": 4.710000038146973,
+          "opponent": "Leeds",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Saka",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "now_cost": 9.8,
+          "predicted_points": 5.920000076293945,
+          "xgb_pts": 5.369999885559082,
+          "rf_pts": 5.01,
+          "mlp_pts": 3.880000114440918,
+          "opponent": "Bournemouth",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Rogers",
+          "team_name": "Aston Villa",
+          "position": "Midfielder",
+          "now_cost": 7.7,
+          "predicted_points": 5.389999866485596,
+          "xgb_pts": 5.440000057220459,
+          "rf_pts": 5.34,
+          "mlp_pts": 4.909999847412109,
+          "opponent": "Nott'm Forest",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Enzo",
+          "team_name": "Chelsea",
+          "position": "Midfielder",
+          "now_cost": 6.8,
+          "predicted_points": 5.179999828338623,
+          "xgb_pts": 5.099999904632568,
+          "rf_pts": 4.7,
+          "mlp_pts": 4.809999942779541,
+          "opponent": "Man City",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Foden",
+          "team_name": "Man City",
+          "position": "Midfielder",
+          "now_cost": 8.1,
+          "predicted_points": 5.159999847412109,
+          "xgb_pts": 5.329999923706055,
+          "rf_pts": 4.37,
+          "mlp_pts": 4.21999979019165,
+          "opponent": "Chelsea",
+          "venue": "A",
+          "is_captain": false
+        },
+        {
+          "web_name": "Ekitik\u00e9",
+          "team_name": "Liverpool",
+          "position": "Forward",
+          "now_cost": 8.9,
+          "predicted_points": 8.1899995803833,
+          "xgb_pts": 6.429999828338623,
+          "rf_pts": 5.53,
+          "mlp_pts": 3.9800000190734863,
+          "opponent": "Fulham",
+          "venue": "H",
+          "is_captain": true
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "predicted_points": 6.079999923706055,
+          "xgb_pts": 6.389999866485596,
+          "rf_pts": 5.47,
+          "mlp_pts": 4.800000190734863,
+          "opponent": "Man City",
+          "venue": "H",
+          "is_captain": false
+        },
+        {
+          "web_name": "Welbeck",
+          "team_name": "Brighton",
+          "position": "Forward",
+          "now_cost": 6.1,
+          "predicted_points": 5.53000020980835,
+          "xgb_pts": 5.53000020980835,
+          "rf_pts": 5.04,
+          "mlp_pts": 3.140000104904175,
+          "opponent": "Burnley",
+          "venue": "A",
+          "is_captain": false
+        }
+      ],
+      "total_cost": 99.8,
+      "total_points": 82.6,
+      "total_with_captain": 90.8,
+      "captain": "Ekitik\u00e9"
+    }
+  },
+  "captain_picks": {
+    "28": [
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "predicted_points": 7.400000095367432,
+        "xgb_pts": 7.739999771118164,
+        "rf_pts": 7.12,
+        "mlp_pts": 6.110000133514404,
+        "opponent": "Leeds",
+        "venue": "A"
+      },
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "position": "Forward",
+        "predicted_points": 6.860000133514404,
+        "xgb_pts": 6.329999923706055,
+        "rf_pts": 5.53,
+        "mlp_pts": 4.050000190734863,
+        "opponent": "West Ham",
+        "venue": "H"
+      },
+      {
+        "web_name": "M.Salah",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "predicted_points": 6.550000190734863,
+        "xgb_pts": 6.449999809265137,
+        "rf_pts": 5.36,
+        "mlp_pts": 5.380000114440918,
+        "opponent": "West Ham",
+        "venue": "H"
+      },
+      {
+        "web_name": "Mbeumo",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "predicted_points": 6.320000171661377,
+        "xgb_pts": 6.21999979019165,
+        "rf_pts": 4.99,
+        "mlp_pts": 4.71999979019165,
+        "opponent": "Crystal Palace",
+        "venue": "H"
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "predicted_points": 6.079999923706055,
+        "xgb_pts": 6.329999923706055,
+        "rf_pts": 5.47,
+        "mlp_pts": 4.659999847412109,
+        "opponent": "Arsenal",
+        "venue": "A"
+      }
+    ],
+    "29": [
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "position": "Forward",
+        "predicted_points": 8.1899995803833,
+        "xgb_pts": 6.409999847412109,
+        "rf_pts": 5.53,
+        "mlp_pts": 3.9700000286102295,
+        "opponent": "Wolves",
+        "venue": "A"
+      },
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "predicted_points": 7.46999979019165,
+        "xgb_pts": 7.840000152587891,
+        "rf_pts": 7.12,
+        "mlp_pts": 6.099999904632568,
+        "opponent": "Nott'm Forest",
+        "venue": "H"
+      },
+      {
+        "web_name": "M.Salah",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "predicted_points": 6.550000190734863,
+        "xgb_pts": 6.300000190734863,
+        "rf_pts": 5.36,
+        "mlp_pts": 5.119999885559082,
+        "opponent": "Wolves",
+        "venue": "A"
+      },
+      {
+        "web_name": "Mbeumo",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "predicted_points": 6.210000038146973,
+        "xgb_pts": 5.960000038146973,
+        "rf_pts": 4.99,
+        "mlp_pts": 4.5,
+        "opponent": "Newcastle",
+        "venue": "A"
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "predicted_points": 6.079999923706055,
+        "xgb_pts": 6.340000152587891,
+        "rf_pts": 5.47,
+        "mlp_pts": 4.670000076293945,
+        "opponent": "Aston Villa",
+        "venue": "A"
+      }
+    ],
+    "30": [
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "predicted_points": 7.46999979019165,
+        "xgb_pts": 7.840000152587891,
+        "rf_pts": 7.12,
+        "mlp_pts": 6.090000152587891,
+        "opponent": "West Ham",
+        "venue": "A"
+      },
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "position": "Forward",
+        "predicted_points": 7.079999923706055,
+        "xgb_pts": 6.349999904632568,
+        "rf_pts": 5.53,
+        "mlp_pts": 4.019999980926514,
+        "opponent": "Spurs",
+        "venue": "H"
+      },
+      {
+        "web_name": "M.Salah",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "predicted_points": 6.889999866485596,
+        "xgb_pts": 6.570000171661377,
+        "rf_pts": 5.37,
+        "mlp_pts": 5.389999866485596,
+        "opponent": "Spurs",
+        "venue": "H"
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "predicted_points": 6.789999961853027,
+        "xgb_pts": 6.409999847412109,
+        "rf_pts": 5.47,
+        "mlp_pts": 4.789999961853027,
+        "opponent": "Newcastle",
+        "venue": "H"
+      },
+      {
+        "web_name": "Mbeumo",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "predicted_points": 6.320000171661377,
+        "xgb_pts": 6.170000076293945,
+        "rf_pts": 4.98,
+        "mlp_pts": 4.710000038146973,
+        "opponent": "Aston Villa",
+        "venue": "H"
+      }
+    ],
+    "31": [
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "position": "Forward",
+        "predicted_points": 8.1899995803833,
+        "xgb_pts": 6.420000076293945,
+        "rf_pts": 5.53,
+        "mlp_pts": 3.940000057220459,
+        "opponent": "Brighton",
+        "venue": "A"
+      },
+      {
+        "web_name": "M.Salah",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "predicted_points": 6.690000057220459,
+        "xgb_pts": 6.420000076293945,
+        "rf_pts": 5.37,
+        "mlp_pts": 5.130000114440918,
+        "opponent": "Brighton",
+        "venue": "A"
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "predicted_points": 6.079999923706055,
+        "xgb_pts": 6.369999885559082,
+        "rf_pts": 5.47,
+        "mlp_pts": 4.679999828338623,
+        "opponent": "Everton",
+        "venue": "A"
+      },
+      {
+        "web_name": "Mbeumo",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "predicted_points": 6.0,
+        "xgb_pts": 5.909999847412109,
+        "rf_pts": 5.0,
+        "mlp_pts": 4.510000228881836,
+        "opponent": "Bournemouth",
+        "venue": "A"
+      },
+      {
+        "web_name": "Welbeck",
+        "team_name": "Brighton",
+        "position": "Forward",
+        "predicted_points": 5.53000020980835,
+        "xgb_pts": 5.489999771118164,
+        "rf_pts": 5.05,
+        "mlp_pts": 3.259999990463257,
+        "opponent": "Liverpool",
+        "venue": "H"
+      }
+    ],
+    "32": [
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "position": "Forward",
+        "predicted_points": 8.1899995803833,
+        "xgb_pts": 6.429999828338623,
+        "rf_pts": 5.53,
+        "mlp_pts": 3.9800000190734863,
+        "opponent": "Fulham",
+        "venue": "H"
+      },
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "predicted_points": 7.46999979019165,
+        "xgb_pts": 7.809999942779541,
+        "rf_pts": 7.12,
+        "mlp_pts": 6.070000171661377,
+        "opponent": "Chelsea",
+        "venue": "A"
+      },
+      {
+        "web_name": "M.Salah",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "predicted_points": 6.889999866485596,
+        "xgb_pts": 6.610000133514404,
+        "rf_pts": 5.37,
+        "mlp_pts": 5.400000095367432,
+        "opponent": "Fulham",
+        "venue": "H"
+      },
+      {
+        "web_name": "Mbeumo",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "predicted_points": 6.320000171661377,
+        "xgb_pts": 6.179999828338623,
+        "rf_pts": 4.99,
+        "mlp_pts": 4.710000038146973,
+        "opponent": "Leeds",
+        "venue": "H"
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "predicted_points": 6.079999923706055,
+        "xgb_pts": 6.389999866485596,
+        "rf_pts": 5.47,
+        "mlp_pts": 4.800000190734863,
+        "opponent": "Man City",
+        "venue": "H"
+      }
+    ]
+  },
+  "wildcard": {
+    "players": [
+      {
+        "web_name": "Roefs",
+        "team_name": "Sunderland",
+        "position": "Goalkeeper",
+        "now_cost": 4.9,
+        "predicted_points": 20.4
+      },
+      {
+        "web_name": "Areola",
+        "team_name": "West Ham",
+        "position": "Goalkeeper",
+        "now_cost": 4.3,
+        "predicted_points": 19.1
+      },
+      {
+        "web_name": "Lewis-Potter",
+        "team_name": "Brentford",
+        "position": "Defender",
+        "now_cost": 4.8,
+        "predicted_points": 24.4
+      },
+      {
+        "web_name": "Mu\u00f1oz",
+        "team_name": "Crystal Palace",
+        "position": "Defender",
+        "now_cost": 5.9,
+        "predicted_points": 23.3
+      },
+      {
+        "web_name": "Hincapie",
+        "team_name": "Arsenal",
+        "position": "Defender",
+        "now_cost": 5.1,
+        "predicted_points": 22.6
+      },
+      {
+        "web_name": "Gusto",
+        "team_name": "Chelsea",
+        "position": "Defender",
+        "now_cost": 4.9,
+        "predicted_points": 22.4
+      },
+      {
+        "web_name": "Botman",
+        "team_name": "Newcastle",
+        "position": "Defender",
+        "now_cost": 4.9,
+        "predicted_points": 21.9
+      },
+      {
+        "web_name": "M.Salah",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "now_cost": 14.0,
+        "predicted_points": 33.6
+      },
+      {
+        "web_name": "Mbeumo",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "now_cost": 8.6,
+        "predicted_points": 31.2
+      },
+      {
+        "web_name": "Rogers",
+        "team_name": "Aston Villa",
+        "position": "Midfielder",
+        "now_cost": 7.7,
+        "predicted_points": 27.2
+      },
+      {
+        "web_name": "Enzo",
+        "team_name": "Chelsea",
+        "position": "Midfielder",
+        "now_cost": 6.8,
+        "predicted_points": 25.8
+      },
+      {
+        "web_name": "Xhaka",
+        "team_name": "Sunderland",
+        "position": "Midfielder",
+        "now_cost": 5.1,
+        "predicted_points": 21.6
+      },
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "position": "Forward",
+        "now_cost": 8.9,
+        "predicted_points": 38.5
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "now_cost": 7.7,
+        "predicted_points": 31.1
+      },
+      {
+        "web_name": "Welbeck",
+        "team_name": "Brighton",
+        "position": "Forward",
+        "now_cost": 6.1,
+        "predicted_points": 27.4
+      }
+    ],
+    "total_cost": 99.7,
+    "total_predicted_5gw": 390.3,
+    "avg_per_gw": 78.1
+  },
+  "metrics": {
+    "model_type": "V3 Position-Specific Meta-Ensemble (3-GW avg target, min 30min)",
+    "target": "3-GW forward average points",
+    "min_minutes": 30,
+    "positions": [
+      "GK",
+      "DEF",
+      "MID",
+      "FWD"
+    ],
+    "xgboost": {
+      "mae": 1.355,
+      "r2": 0.065,
+      "rank20": 0.362
+    },
+    "random_forest": {
+      "mae": 1.348,
+      "r2": 0.074,
+      "rank20": 0.3
+    },
+    "neural_net": {
+      "mae": 1.377,
+      "r2": 0.034,
+      "rank20": 0.288
+    },
+    "lstm": {
+      "mae": 1.349,
+      "r2": 0.048,
+      "rank20": 0.25
+    },
+    "simple_avg": {
+      "mae": 1.349,
+      "r2": 0.077,
+      "rank20": 0.337
+    },
+    "stacked_meta": {
+      "mae": 1.354,
+      "r2": 0.061,
+      "rank20": 0.35
+    },
+    "best_model": "random_forest",
+    "best_r2_model": "simple_avg",
+    "train_size": 36580,
+    "test_size": 749,
+    "n_base_features": 71,
+    "n_meta_features": 21,
+    "next_gws": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "per_position": {
+      "GK": {
+        "meta_mae": 1.417,
+        "meta_r2": -0.034,
+        "train_size": 2676,
+        "test_size": 77
+      },
+      "DEF": {
+        "meta_mae": 1.201,
+        "meta_r2": -0.015,
+        "train_size": 11134,
+        "test_size": 282
+      },
+      "MID": {
+        "meta_mae": 1.419,
+        "meta_r2": 0.108,
+        "train_size": 19558,
+        "test_size": 317
+      },
+      "FWD": {
+        "meta_mae": 1.594,
+        "meta_r2": 0.012,
+        "train_size": 3212,
+        "test_size": 73
+      }
+    }
+  }
+}

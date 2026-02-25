@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+NUL
+
+# IDE / Tools
+.claude/
+.streamlit/
+.vscode/
+.idea/
+
+# Large data files (regenerate with pull_data.py + pull_historical.py)
+data/raw/
+data/processed/
+data/historical/
+
+# Large model files (regenerate with model_v3.py)
+output/model.pkl
+output/nn_models.pt

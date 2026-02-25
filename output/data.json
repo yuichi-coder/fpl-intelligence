@@ -1,0 +1,3078 @@
+{
+  "top15": [
+    {
+      "web_name": "Haaland",
+      "team_name": "Man City",
+      "position": "Forward",
+      "now_cost": 14.8,
+      "total_points": 193,
+      "goals_scored": 22,
+      "assists": 7,
+      "value": 13.04
+    },
+    {
+      "web_name": "Semenyo",
+      "team_name": "Man City",
+      "position": "Midfielder",
+      "now_cost": 8.0,
+      "total_points": 157,
+      "goals_scored": 13,
+      "assists": 6,
+      "value": 19.62
+    },
+    {
+      "web_name": "Rice",
+      "team_name": "Arsenal",
+      "position": "Midfielder",
+      "now_cost": 7.6,
+      "total_points": 152,
+      "goals_scored": 4,
+      "assists": 8,
+      "value": 20.0
+    },
+    {
+      "web_name": "B.Fernandes",
+      "team_name": "Man Utd",
+      "position": "Midfielder",
+      "now_cost": 9.9,
+      "total_points": 145,
+      "goals_scored": 6,
+      "assists": 12,
+      "value": 14.65
+    },
+    {
+      "web_name": "Gabriel",
+      "team_name": "Arsenal",
+      "position": "Defender",
+      "now_cost": 7.1,
+      "total_points": 144,
+      "goals_scored": 3,
+      "assists": 3,
+      "value": 20.28
+    },
+    {
+      "web_name": "Jo\u00e3o Pedro",
+      "team_name": "Chelsea",
+      "position": "Forward",
+      "now_cost": 7.7,
+      "total_points": 139,
+      "goals_scored": 11,
+      "assists": 8,
+      "value": 18.05
+    },
+    {
+      "web_name": "Thiago",
+      "team_name": "Brentford",
+      "position": "Forward",
+      "now_cost": 7.1,
+      "total_points": 135,
+      "goals_scored": 17,
+      "assists": 1,
+      "value": 19.01
+    },
+    {
+      "web_name": "Bruno G.",
+      "team_name": "Newcastle",
+      "position": "Midfielder",
+      "now_cost": 6.9,
+      "total_points": 134,
+      "goals_scored": 9,
+      "assists": 6,
+      "value": 19.42
+    },
+    {
+      "web_name": "Wilson",
+      "team_name": "Fulham",
+      "position": "Midfielder",
+      "now_cost": 5.9,
+      "total_points": 128,
+      "goals_scored": 8,
+      "assists": 7,
+      "value": 21.69
+    },
+    {
+      "web_name": "J.Timber",
+      "team_name": "Arsenal",
+      "position": "Defender",
+      "now_cost": 6.4,
+      "total_points": 127,
+      "goals_scored": 2,
+      "assists": 5,
+      "value": 19.84
+    },
+    {
+      "web_name": "Rogers",
+      "team_name": "Aston Villa",
+      "position": "Midfielder",
+      "now_cost": 7.7,
+      "total_points": 127,
+      "goals_scored": 8,
+      "assists": 5,
+      "value": 16.49
+    },
+    {
+      "web_name": "Chalobah",
+      "team_name": "Chelsea",
+      "position": "Defender",
+      "now_cost": 5.8,
+      "total_points": 126,
+      "goals_scored": 3,
+      "assists": 1,
+      "value": 21.72
+    },
+    {
+      "web_name": "Gu\u00e9hi",
+      "team_name": "Man City",
+      "position": "Defender",
+      "now_cost": 5.2,
+      "total_points": 126,
+      "goals_scored": 2,
+      "assists": 4,
+      "value": 24.23
+    },
+    {
+      "web_name": "Bowen",
+      "team_name": "West Ham",
+      "position": "Forward",
+      "now_cost": 7.6,
+      "total_points": 124,
+      "goals_scored": 8,
+      "assists": 4,
+      "value": 16.32
+    },
+    {
+      "web_name": "Virgil",
+      "team_name": "Liverpool",
+      "position": "Defender",
+      "now_cost": 6.0,
+      "total_points": 122,
+      "goals_scored": 2,
+      "assists": 1,
+      "value": 20.33
+    }
+  ],
+  "teams": [
+    {
+      "team_name": "Arsenal",
+      "avg_points": 88.94,
+      "total_goals": 50,
+      "total_assists": 49,
+      "avg_price": 6.7,
+      "player_count": 17
+    },
+    {
+      "team_name": "Man City",
+      "avg_points": 85.05,
+      "total_goals": 64,
+      "total_assists": 55,
+      "avg_price": 6.47,
+      "player_count": 19
+    },
+    {
+      "team_name": "Brentford",
+      "avg_points": 74.81,
+      "total_goals": 38,
+      "total_assists": 32,
+      "avg_price": 5.09,
+      "player_count": 16
+    },
+    {
+      "team_name": "Liverpool",
+      "avg_points": 73.12,
+      "total_goals": 38,
+      "total_assists": 33,
+      "avg_price": 6.8,
+      "player_count": 17
+    },
+    {
+      "team_name": "Everton",
+      "avg_points": 72.44,
+      "total_goals": 27,
+      "total_assists": 26,
+      "avg_price": 5.28,
+      "player_count": 16
+    },
+    {
+      "team_name": "Crystal Palace",
+      "avg_points": 71.12,
+      "total_goals": 27,
+      "total_assists": 23,
+      "avg_price": 5.49,
+      "player_count": 16
+    },
+    {
+      "team_name": "Chelsea",
+      "avg_points": 70.26,
+      "total_goals": 48,
+      "total_assists": 44,
+      "avg_price": 5.85,
+      "player_count": 19
+    },
+    {
+      "team_name": "Sunderland",
+      "avg_points": 65.94,
+      "total_goals": 25,
+      "total_assists": 28,
+      "avg_price": 4.84,
+      "player_count": 17
+    },
+    {
+      "team_name": "Leeds",
+      "avg_points": 64.76,
+      "total_goals": 37,
+      "total_assists": 32,
+      "avg_price": 4.6,
+      "player_count": 17
+    },
+    {
+      "team_name": "Bournemouth",
+      "avg_points": 63.76,
+      "total_goals": 30,
+      "total_assists": 27,
+      "avg_price": 5.01,
+      "player_count": 17
+    },
+    {
+      "team_name": "Man Utd",
+      "avg_points": 62.38,
+      "total_goals": 46,
+      "total_assists": 43,
+      "avg_price": 5.53,
+      "player_count": 21
+    },
+    {
+      "team_name": "Aston Villa",
+      "avg_points": 62.16,
+      "total_goals": 34,
+      "total_assists": 32,
+      "avg_price": 5.19,
+      "player_count": 19
+    },
+    {
+      "team_name": "Nott'm Forest",
+      "avg_points": 61.25,
+      "total_goals": 23,
+      "total_assists": 19,
+      "avg_price": 5.33,
+      "player_count": 16
+    },
+    {
+      "team_name": "Newcastle",
+      "avg_points": 60.05,
+      "total_goals": 36,
+      "total_assists": 28,
+      "avg_price": 5.52,
+      "player_count": 20
+    },
+    {
+      "team_name": "Brighton",
+      "avg_points": 59.94,
+      "total_goals": 31,
+      "total_assists": 30,
+      "avg_price": 4.99,
+      "player_count": 18
+    },
+    {
+      "team_name": "Fulham",
+      "avg_points": 59.32,
+      "total_goals": 32,
+      "total_assists": 36,
+      "avg_price": 5.07,
+      "player_count": 19
+    },
+    {
+      "team_name": "Spurs",
+      "avg_points": 57.79,
+      "total_goals": 31,
+      "total_assists": 32,
+      "avg_price": 5.28,
+      "player_count": 19
+    },
+    {
+      "team_name": "West Ham",
+      "avg_points": 54.11,
+      "total_goals": 30,
+      "total_assists": 29,
+      "avg_price": 4.95,
+      "player_count": 18
+    },
+    {
+      "team_name": "Burnley",
+      "avg_points": 47.9,
+      "total_goals": 26,
+      "total_assists": 27,
+      "avg_price": 4.62,
+      "player_count": 21
+    },
+    {
+      "team_name": "Wolves",
+      "avg_points": 40.35,
+      "total_goals": 15,
+      "total_assists": 13,
+      "avg_price": 4.66,
+      "player_count": 20
+    }
+  ],
+  "best_value": {
+    "Goalkeeper": [
+      {
+        "web_name": "Roefs",
+        "team_name": "Sunderland",
+        "now_cost": 4.9,
+        "total_points": 108,
+        "value": 22.04
+      },
+      {
+        "web_name": "Henderson",
+        "team_name": "Crystal Palace",
+        "now_cost": 5.0,
+        "total_points": 109,
+        "value": 21.8
+      },
+      {
+        "web_name": "Kelleher",
+        "team_name": "Brentford",
+        "now_cost": 4.6,
+        "total_points": 98,
+        "value": 21.3
+      },
+      {
+        "web_name": "D\u00fabravka",
+        "team_name": "Burnley",
+        "now_cost": 4.0,
+        "total_points": 78,
+        "value": 19.5
+      },
+      {
+        "web_name": "Pickford",
+        "team_name": "Everton",
+        "now_cost": 5.6,
+        "total_points": 109,
+        "value": 19.46
+      }
+    ],
+    "Defender": [
+      {
+        "web_name": "Mukiele",
+        "team_name": "Sunderland",
+        "now_cost": 4.6,
+        "total_points": 115,
+        "value": 25.0
+      },
+      {
+        "web_name": "Gu\u00e9hi",
+        "team_name": "Man City",
+        "now_cost": 5.2,
+        "total_points": 126,
+        "value": 24.23
+      },
+      {
+        "web_name": "O'Reilly",
+        "team_name": "Man City",
+        "now_cost": 5.0,
+        "total_points": 117,
+        "value": 23.4
+      },
+      {
+        "web_name": "Van Hecke",
+        "team_name": "Brighton",
+        "now_cost": 4.4,
+        "total_points": 101,
+        "value": 22.95
+      },
+      {
+        "web_name": "Keane",
+        "team_name": "Everton",
+        "now_cost": 4.6,
+        "total_points": 105,
+        "value": 22.83
+      }
+    ],
+    "Midfielder": [
+      {
+        "web_name": "Stach",
+        "team_name": "Leeds",
+        "now_cost": 4.7,
+        "total_points": 108,
+        "value": 22.98
+      },
+      {
+        "web_name": "Anderson",
+        "team_name": "Nott'm Forest",
+        "now_cost": 5.4,
+        "total_points": 118,
+        "value": 21.85
+      },
+      {
+        "web_name": "Garner",
+        "team_name": "Everton",
+        "now_cost": 5.2,
+        "total_points": 113,
+        "value": 21.73
+      },
+      {
+        "web_name": "Wilson",
+        "team_name": "Fulham",
+        "now_cost": 5.9,
+        "total_points": 128,
+        "value": 21.69
+      },
+      {
+        "web_name": "Gravenberch",
+        "team_name": "Liverpool",
+        "now_cost": 5.5,
+        "total_points": 114,
+        "value": 20.73
+      }
+    ],
+    "Forward": [
+      {
+        "web_name": "Thiago",
+        "team_name": "Brentford",
+        "now_cost": 7.1,
+        "total_points": 135,
+        "value": 19.01
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "now_cost": 7.7,
+        "total_points": 139,
+        "value": 18.05
+      },
+      {
+        "web_name": "Calvert-Lewin",
+        "team_name": "Leeds",
+        "now_cost": 5.8,
+        "total_points": 104,
+        "value": 17.93
+      },
+      {
+        "web_name": "Bowen",
+        "team_name": "West Ham",
+        "now_cost": 7.6,
+        "total_points": 124,
+        "value": 16.32
+      },
+      {
+        "web_name": "Ra\u00fal",
+        "team_name": "Fulham",
+        "now_cost": 6.1,
+        "total_points": 94,
+        "value": 15.41
+      }
+    ]
+  },
+  "pca_variance": [
+    0.5874,
+    0.1561,
+    0.1135,
+    0.0379,
+    0.0338
+  ],
+  "clusters": [
+    {
+      "id": 0,
+      "count": 119,
+      "profile": {
+        "total_points": 32.52,
+        "goals_scored": 0.49,
+        "assists": 0.68,
+        "clean_sheets": 1.88,
+        "now_cost": 4.86,
+        "value": 6.87
+      },
+      "top_players": [
+        {
+          "web_name": "Maguire",
+          "team_name": "Man Utd",
+          "position": "Defender",
+          "total_points": 59,
+          "now_cost": 4.3
+        },
+        {
+          "web_name": "Iroegbunam",
+          "team_name": "Everton",
+          "position": "Midfielder",
+          "total_points": 52,
+          "now_cost": 4.8
+        },
+        {
+          "web_name": "Sch\u00e4r",
+          "team_name": "Newcastle",
+          "position": "Defender",
+          "total_points": 51,
+          "now_cost": 5.2
+        },
+        {
+          "web_name": "Pau",
+          "team_name": "Aston Villa",
+          "position": "Defender",
+          "total_points": 49,
+          "now_cost": 4.3
+        },
+        {
+          "web_name": "Livramento",
+          "team_name": "Newcastle",
+          "position": "Defender",
+          "total_points": 49,
+          "now_cost": 4.9
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "count": 28,
+      "profile": {
+        "total_points": 113.89,
+        "goals_scored": 8.54,
+        "assists": 4.04,
+        "clean_sheets": 6.86,
+        "now_cost": 8.24,
+        "value": 14.36
+      },
+      "top_players": [
+        {
+          "web_name": "Haaland",
+          "team_name": "Man City",
+          "position": "Forward",
+          "total_points": 193,
+          "now_cost": 14.8
+        },
+        {
+          "web_name": "Semenyo",
+          "team_name": "Man City",
+          "position": "Midfielder",
+          "total_points": 157,
+          "now_cost": 8.0
+        },
+        {
+          "web_name": "Rice",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "total_points": 152,
+          "now_cost": 7.6
+        },
+        {
+          "web_name": "B.Fernandes",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "total_points": 145,
+          "now_cost": 9.9
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "total_points": 139,
+          "now_cost": 7.7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "count": 57,
+      "profile": {
+        "total_points": 89.33,
+        "goals_scored": 2.95,
+        "assists": 3.81,
+        "clean_sheets": 6.35,
+        "now_cost": 5.78,
+        "value": 15.87
+      },
+      "top_players": [
+        {
+          "web_name": "J.Timber",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "total_points": 127,
+          "now_cost": 6.4
+        },
+        {
+          "web_name": "Gu\u00e9hi",
+          "team_name": "Man City",
+          "position": "Defender",
+          "total_points": 126,
+          "now_cost": 5.2
+        },
+        {
+          "web_name": "Anderson",
+          "team_name": "Nott'm Forest",
+          "position": "Midfielder",
+          "total_points": 118,
+          "now_cost": 5.4
+        },
+        {
+          "web_name": "Matheus N.",
+          "team_name": "Man City",
+          "position": "Defender",
+          "total_points": 117,
+          "now_cost": 5.4
+        },
+        {
+          "web_name": "O'Reilly",
+          "team_name": "Man City",
+          "position": "Defender",
+          "total_points": 117,
+          "now_cost": 5.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "count": 106,
+      "profile": {
+        "total_points": 59.22,
+        "goals_scored": 1.62,
+        "assists": 1.75,
+        "clean_sheets": 4.13,
+        "now_cost": 5.13,
+        "value": 11.78
+      },
+      "top_players": [
+        {
+          "web_name": "Calafiori",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "total_points": 86,
+          "now_cost": 5.6
+        },
+        {
+          "web_name": "Ayari",
+          "team_name": "Brighton",
+          "position": "Midfielder",
+          "total_points": 83,
+          "now_cost": 4.8
+        },
+        {
+          "web_name": "Gusto",
+          "team_name": "Chelsea",
+          "position": "Defender",
+          "total_points": 83,
+          "now_cost": 4.9
+        },
+        {
+          "web_name": "Ugochukwu",
+          "team_name": "Burnley",
+          "position": "Midfielder",
+          "total_points": 78,
+          "now_cost": 5.0
+        },
+        {
+          "web_name": "Lewis-Potter",
+          "team_name": "Brentford",
+          "position": "Defender",
+          "total_points": 77,
+          "now_cost": 4.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "count": 52,
+      "profile": {
+        "total_points": 93.1,
+        "goals_scored": 0.98,
+        "assists": 0.79,
+        "clean_sheets": 7.04,
+        "now_cost": 4.95,
+        "value": 18.83
+      },
+      "top_players": [
+        {
+          "web_name": "Gabriel",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "total_points": 144,
+          "now_cost": 7.1
+        },
+        {
+          "web_name": "Chalobah",
+          "team_name": "Chelsea",
+          "position": "Defender",
+          "total_points": 126,
+          "now_cost": 5.8
+        },
+        {
+          "web_name": "Virgil",
+          "team_name": "Liverpool",
+          "position": "Defender",
+          "total_points": 122,
+          "now_cost": 6.0
+        },
+        {
+          "web_name": "Tarkowski",
+          "team_name": "Everton",
+          "position": "Defender",
+          "total_points": 118,
+          "now_cost": 5.7
+        },
+        {
+          "web_name": "Lacroix",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "total_points": 116,
+          "now_cost": 5.1
+        }
+      ]
+    }
+  ],
+  "xg_analysis": {
+    "overperformers": [
+      {
+        "web_name": "Semenyo",
+        "team_name": "Man City",
+        "position": "Midfielder",
+        "goals_scored": 13,
+        "expected_goals": 8.72,
+        "xg_diff": 4.28
+      },
+      {
+        "web_name": "Bruno G.",
+        "team_name": "Newcastle",
+        "position": "Midfielder",
+        "goals_scored": 9,
+        "expected_goals": 4.82,
+        "xg_diff": 4.18
+      },
+      {
+        "web_name": "Wilson",
+        "team_name": "Fulham",
+        "position": "Midfielder",
+        "goals_scored": 8,
+        "expected_goals": 4.35,
+        "xg_diff": 3.65
+      },
+      {
+        "web_name": "Kroupi.Jr",
+        "team_name": "Bournemouth",
+        "position": "Forward",
+        "goals_scored": 8,
+        "expected_goals": 4.39,
+        "xg_diff": 3.61
+      },
+      {
+        "web_name": "Rogers",
+        "team_name": "Aston Villa",
+        "position": "Midfielder",
+        "goals_scored": 8,
+        "expected_goals": 4.93,
+        "xg_diff": 3.07
+      },
+      {
+        "web_name": "Anthony",
+        "team_name": "Burnley",
+        "position": "Midfielder",
+        "goals_scored": 6,
+        "expected_goals": 3.19,
+        "xg_diff": 2.81
+      },
+      {
+        "web_name": "Gravenberch",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "goals_scored": 4,
+        "expected_goals": 1.32,
+        "xg_diff": 2.68
+      },
+      {
+        "web_name": "Romero",
+        "team_name": "Spurs",
+        "position": "Defender",
+        "goals_scored": 4,
+        "expected_goals": 1.33,
+        "xg_diff": 2.67
+      },
+      {
+        "web_name": "Dewsbury-Hall",
+        "team_name": "Everton",
+        "position": "Midfielder",
+        "goals_scored": 5,
+        "expected_goals": 2.43,
+        "xg_diff": 2.57
+      },
+      {
+        "web_name": "Eze",
+        "team_name": "Arsenal",
+        "position": "Midfielder",
+        "goals_scored": 6,
+        "expected_goals": 3.48,
+        "xg_diff": 2.52
+      }
+    ],
+    "underperformers": [
+      {
+        "web_name": "Mateta",
+        "team_name": "Crystal Palace",
+        "position": "Forward",
+        "goals_scored": 8,
+        "expected_goals": 11.88,
+        "xg_diff": -3.88
+      },
+      {
+        "web_name": "Brooks",
+        "team_name": "Bournemouth",
+        "position": "Midfielder",
+        "goals_scored": 1,
+        "expected_goals": 4.51,
+        "xg_diff": -3.51
+      },
+      {
+        "web_name": "Gordon",
+        "team_name": "Newcastle",
+        "position": "Midfielder",
+        "goals_scored": 3,
+        "expected_goals": 5.75,
+        "xg_diff": -2.75
+      },
+      {
+        "web_name": "Delap",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "goals_scored": 1,
+        "expected_goals": 3.68,
+        "xg_diff": -2.68
+      },
+      {
+        "web_name": "Schade",
+        "team_name": "Brentford",
+        "position": "Midfielder",
+        "goals_scored": 6,
+        "expected_goals": 8.57,
+        "xg_diff": -2.57
+      },
+      {
+        "web_name": "Struijk",
+        "team_name": "Leeds",
+        "position": "Defender",
+        "goals_scored": 0,
+        "expected_goals": 2.46,
+        "xg_diff": -2.46
+      },
+      {
+        "web_name": "Martinelli",
+        "team_name": "Arsenal",
+        "position": "Midfielder",
+        "goals_scored": 1,
+        "expected_goals": 3.42,
+        "xg_diff": -2.42
+      },
+      {
+        "web_name": "J.Arias",
+        "team_name": "Wolves",
+        "position": "Midfielder",
+        "goals_scored": 1,
+        "expected_goals": 3.38,
+        "xg_diff": -2.38
+      },
+      {
+        "web_name": "Van den Berg",
+        "team_name": "Brentford",
+        "position": "Defender",
+        "goals_scored": 0,
+        "expected_goals": 2.37,
+        "xg_diff": -2.37
+      },
+      {
+        "web_name": "Evanilson",
+        "team_name": "Bournemouth",
+        "position": "Forward",
+        "goals_scored": 5,
+        "expected_goals": 7.35,
+        "xg_diff": -2.35
+      }
+    ]
+  },
+  "xa_analysis": {
+    "overperformers": [
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "assists": 8,
+        "expected_assists": 1.71,
+        "xa_diff": 6.29
+      },
+      {
+        "web_name": "Matheus N.",
+        "team_name": "Man City",
+        "position": "Defender",
+        "assists": 7,
+        "expected_assists": 1.45,
+        "xa_diff": 5.55
+      },
+      {
+        "web_name": "B.Fernandes",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "assists": 12,
+        "expected_assists": 6.75,
+        "xa_diff": 5.25
+      },
+      {
+        "web_name": "Minteh",
+        "team_name": "Brighton",
+        "position": "Midfielder",
+        "assists": 8,
+        "expected_assists": 2.78,
+        "xa_diff": 5.22
+      },
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "assists": 7,
+        "expected_assists": 1.86,
+        "xa_diff": 5.14
+      },
+      {
+        "web_name": "Ra\u00fal",
+        "team_name": "Fulham",
+        "position": "Forward",
+        "assists": 5,
+        "expected_assists": 0.81,
+        "xa_diff": 4.19
+      },
+      {
+        "web_name": "Dalot",
+        "team_name": "Man Utd",
+        "position": "Defender",
+        "assists": 6,
+        "expected_assists": 2.04,
+        "xa_diff": 3.96
+      },
+      {
+        "web_name": "Semenyo",
+        "team_name": "Man City",
+        "position": "Midfielder",
+        "assists": 6,
+        "expected_assists": 2.27,
+        "xa_diff": 3.73
+      },
+      {
+        "web_name": "Diouf",
+        "team_name": "West Ham",
+        "position": "Defender",
+        "assists": 5,
+        "expected_assists": 1.36,
+        "xa_diff": 3.64
+      },
+      {
+        "web_name": "Kudus",
+        "team_name": "Spurs",
+        "position": "Midfielder",
+        "assists": 6,
+        "expected_assists": 2.41,
+        "xa_diff": 3.59
+      }
+    ],
+    "underperformers": [
+      {
+        "web_name": "Yeremy",
+        "team_name": "Crystal Palace",
+        "position": "Midfielder",
+        "assists": 1,
+        "expected_assists": 4.74,
+        "xa_diff": -3.74
+      },
+      {
+        "web_name": "Enzo",
+        "team_name": "Chelsea",
+        "position": "Midfielder",
+        "assists": 3,
+        "expected_assists": 5.16,
+        "xa_diff": -2.16
+      },
+      {
+        "web_name": "De Cuyper",
+        "team_name": "Brighton",
+        "position": "Defender",
+        "assists": 0,
+        "expected_assists": 2.15,
+        "xa_diff": -2.15
+      },
+      {
+        "web_name": "Szoboszlai",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "assists": 2,
+        "expected_assists": 4.11,
+        "xa_diff": -2.11
+      },
+      {
+        "web_name": "Barnes",
+        "team_name": "Newcastle",
+        "position": "Midfielder",
+        "assists": 0,
+        "expected_assists": 2.0,
+        "xa_diff": -2.0
+      },
+      {
+        "web_name": "Gudmundsson",
+        "team_name": "Leeds",
+        "position": "Defender",
+        "assists": 0,
+        "expected_assists": 1.99,
+        "xa_diff": -1.99
+      },
+      {
+        "web_name": "N.Williams",
+        "team_name": "Nott'm Forest",
+        "position": "Defender",
+        "assists": 1,
+        "expected_assists": 2.88,
+        "xa_diff": -1.88
+      },
+      {
+        "web_name": "Trippier",
+        "team_name": "Newcastle",
+        "position": "Defender",
+        "assists": 0,
+        "expected_assists": 1.77,
+        "xa_diff": -1.77
+      },
+      {
+        "web_name": "Maatsen",
+        "team_name": "Aston Villa",
+        "position": "Defender",
+        "assists": 0,
+        "expected_assists": 1.74,
+        "xa_diff": -1.74
+      },
+      {
+        "web_name": "Spence",
+        "team_name": "Spurs",
+        "position": "Defender",
+        "assists": 0,
+        "expected_assists": 1.73,
+        "xa_diff": -1.73
+      }
+    ]
+  },
+  "optimal_teams": {
+    "best": {
+      "players": [
+        {
+          "web_name": "Henderson",
+          "team_name": "Crystal Palace",
+          "position": "Goalkeeper",
+          "now_cost": 5.0,
+          "total_points": 109,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "total_points": 108,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 8
+        },
+        {
+          "web_name": "Gabriel",
+          "team_name": "Arsenal",
+          "position": "Defender",
+          "now_cost": 7.1,
+          "total_points": 144,
+          "goals_scored": 3,
+          "assists": 3,
+          "clean_sheets": 12
+        },
+        {
+          "web_name": "Chalobah",
+          "team_name": "Chelsea",
+          "position": "Defender",
+          "now_cost": 5.8,
+          "total_points": 126,
+          "goals_scored": 3,
+          "assists": 1,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Gu\u00e9hi",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.2,
+          "total_points": 126,
+          "goals_scored": 2,
+          "assists": 4,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Lacroix",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "total_points": 116,
+          "goals_scored": 0,
+          "assists": 2,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Mukiele",
+          "team_name": "Sunderland",
+          "position": "Defender",
+          "now_cost": 4.6,
+          "total_points": 115,
+          "goals_scored": 1,
+          "assists": 5,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Semenyo",
+          "team_name": "Man City",
+          "position": "Midfielder",
+          "now_cost": 8.0,
+          "total_points": 157,
+          "goals_scored": 13,
+          "assists": 6,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Rice",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "now_cost": 7.6,
+          "total_points": 152,
+          "goals_scored": 4,
+          "assists": 8,
+          "clean_sheets": 12
+        },
+        {
+          "web_name": "Wilson",
+          "team_name": "Fulham",
+          "position": "Midfielder",
+          "now_cost": 5.9,
+          "total_points": 128,
+          "goals_scored": 8,
+          "assists": 7,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Anderson",
+          "team_name": "Nott'm Forest",
+          "position": "Midfielder",
+          "now_cost": 5.4,
+          "total_points": 118,
+          "goals_scored": 1,
+          "assists": 3,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Casemiro",
+          "team_name": "Man Utd",
+          "position": "Midfielder",
+          "now_cost": 5.6,
+          "total_points": 115,
+          "goals_scored": 5,
+          "assists": 4,
+          "clean_sheets": 8
+        },
+        {
+          "web_name": "Haaland",
+          "team_name": "Man City",
+          "position": "Forward",
+          "now_cost": 14.8,
+          "total_points": 193,
+          "goals_scored": 22,
+          "assists": 7,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "total_points": 139,
+          "goals_scored": 11,
+          "assists": 8,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Thiago",
+          "team_name": "Brentford",
+          "position": "Forward",
+          "now_cost": 7.1,
+          "total_points": 135,
+          "goals_scored": 17,
+          "assists": 1,
+          "clean_sheets": 6
+        }
+      ],
+      "total_cost": 99.8,
+      "total_points": 1981.0,
+      "label": "Maximum Points (\u00a3100m)"
+    },
+    "value": {
+      "players": [
+        {
+          "web_name": "Henderson",
+          "team_name": "Crystal Palace",
+          "position": "Goalkeeper",
+          "now_cost": 5.0,
+          "total_points": 109,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "total_points": 108,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 8
+        },
+        {
+          "web_name": "Gu\u00e9hi",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.2,
+          "total_points": 126,
+          "goals_scored": 2,
+          "assists": 4,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "O'Reilly",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.0,
+          "total_points": 117,
+          "goals_scored": 4,
+          "assists": 3,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Mukiele",
+          "team_name": "Sunderland",
+          "position": "Defender",
+          "now_cost": 4.6,
+          "total_points": 115,
+          "goals_scored": 1,
+          "assists": 5,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Keane",
+          "team_name": "Everton",
+          "position": "Defender",
+          "now_cost": 4.6,
+          "total_points": 105,
+          "goals_scored": 3,
+          "assists": 0,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Van Hecke",
+          "team_name": "Brighton",
+          "position": "Defender",
+          "now_cost": 4.4,
+          "total_points": 101,
+          "goals_scored": 3,
+          "assists": 2,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Wilson",
+          "team_name": "Fulham",
+          "position": "Midfielder",
+          "now_cost": 5.9,
+          "total_points": 128,
+          "goals_scored": 8,
+          "assists": 7,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Anderson",
+          "team_name": "Nott'm Forest",
+          "position": "Midfielder",
+          "now_cost": 5.4,
+          "total_points": 118,
+          "goals_scored": 1,
+          "assists": 3,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Gravenberch",
+          "team_name": "Liverpool",
+          "position": "Midfielder",
+          "now_cost": 5.5,
+          "total_points": 114,
+          "goals_scored": 4,
+          "assists": 4,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Garner",
+          "team_name": "Everton",
+          "position": "Midfielder",
+          "now_cost": 5.2,
+          "total_points": 113,
+          "goals_scored": 2,
+          "assists": 3,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Stach",
+          "team_name": "Leeds",
+          "position": "Midfielder",
+          "now_cost": 4.7,
+          "total_points": 108,
+          "goals_scored": 4,
+          "assists": 6,
+          "clean_sheets": 4
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "total_points": 139,
+          "goals_scored": 11,
+          "assists": 8,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Thiago",
+          "team_name": "Brentford",
+          "position": "Forward",
+          "now_cost": 7.1,
+          "total_points": 135,
+          "goals_scored": 17,
+          "assists": 1,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Calvert-Lewin",
+          "team_name": "Leeds",
+          "position": "Forward",
+          "now_cost": 5.8,
+          "total_points": 104,
+          "goals_scored": 10,
+          "assists": 2,
+          "clean_sheets": 4
+        }
+      ],
+      "total_cost": 81.0,
+      "total_points": 1740.0,
+      "label": "Maximum Value (\u00a3100m)"
+    },
+    "budget": {
+      "players": [
+        {
+          "web_name": "Henderson",
+          "team_name": "Crystal Palace",
+          "position": "Goalkeeper",
+          "now_cost": 5.0,
+          "total_points": 109,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Roefs",
+          "team_name": "Sunderland",
+          "position": "Goalkeeper",
+          "now_cost": 4.9,
+          "total_points": 108,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 8
+        },
+        {
+          "web_name": "Chalobah",
+          "team_name": "Chelsea",
+          "position": "Defender",
+          "now_cost": 5.8,
+          "total_points": 126,
+          "goals_scored": 3,
+          "assists": 1,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Gu\u00e9hi",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.2,
+          "total_points": 126,
+          "goals_scored": 2,
+          "assists": 4,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "O'Reilly",
+          "team_name": "Man City",
+          "position": "Defender",
+          "now_cost": 5.0,
+          "total_points": 117,
+          "goals_scored": 4,
+          "assists": 3,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Lacroix",
+          "team_name": "Crystal Palace",
+          "position": "Defender",
+          "now_cost": 5.1,
+          "total_points": 116,
+          "goals_scored": 0,
+          "assists": 2,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Mukiele",
+          "team_name": "Sunderland",
+          "position": "Defender",
+          "now_cost": 4.6,
+          "total_points": 115,
+          "goals_scored": 1,
+          "assists": 5,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Rice",
+          "team_name": "Arsenal",
+          "position": "Midfielder",
+          "now_cost": 7.6,
+          "total_points": 152,
+          "goals_scored": 4,
+          "assists": 8,
+          "clean_sheets": 12
+        },
+        {
+          "web_name": "Wilson",
+          "team_name": "Fulham",
+          "position": "Midfielder",
+          "now_cost": 5.9,
+          "total_points": 128,
+          "goals_scored": 8,
+          "assists": 7,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Anderson",
+          "team_name": "Nott'm Forest",
+          "position": "Midfielder",
+          "now_cost": 5.4,
+          "total_points": 118,
+          "goals_scored": 1,
+          "assists": 3,
+          "clean_sheets": 7
+        },
+        {
+          "web_name": "Garner",
+          "team_name": "Everton",
+          "position": "Midfielder",
+          "now_cost": 5.2,
+          "total_points": 113,
+          "goals_scored": 2,
+          "assists": 3,
+          "clean_sheets": 9
+        },
+        {
+          "web_name": "Stach",
+          "team_name": "Leeds",
+          "position": "Midfielder",
+          "now_cost": 4.7,
+          "total_points": 108,
+          "goals_scored": 4,
+          "assists": 6,
+          "clean_sheets": 4
+        },
+        {
+          "web_name": "Jo\u00e3o Pedro",
+          "team_name": "Chelsea",
+          "position": "Forward",
+          "now_cost": 7.7,
+          "total_points": 139,
+          "goals_scored": 11,
+          "assists": 8,
+          "clean_sheets": 10
+        },
+        {
+          "web_name": "Thiago",
+          "team_name": "Brentford",
+          "position": "Forward",
+          "now_cost": 7.1,
+          "total_points": 135,
+          "goals_scored": 17,
+          "assists": 1,
+          "clean_sheets": 6
+        },
+        {
+          "web_name": "Calvert-Lewin",
+          "team_name": "Leeds",
+          "position": "Forward",
+          "now_cost": 5.8,
+          "total_points": 104,
+          "goals_scored": 10,
+          "assists": 2,
+          "clean_sheets": 4
+        }
+      ],
+      "total_cost": 85.0,
+      "total_points": 1814.0,
+      "label": "Budget Team (\u00a385m)"
+    }
+  },
+  "form_trends": {
+    "max_gw": 27,
+    "rising": [
+      {
+        "web_name": "O'Reilly",
+        "team_name": "Man City",
+        "position": "Defender",
+        "recent_pts": 39,
+        "earlier_pts": 4,
+        "pts_per_gw_recent": 7.8,
+        "pts_per_gw_earlier": 0.8,
+        "trend": 7.0
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "position": "Forward",
+        "recent_pts": 47,
+        "earlier_pts": 20,
+        "pts_per_gw_recent": 9.4,
+        "pts_per_gw_earlier": 4.0,
+        "trend": 5.4
+      },
+      {
+        "web_name": "Virgil",
+        "team_name": "Liverpool",
+        "position": "Defender",
+        "recent_pts": 41,
+        "earlier_pts": 17,
+        "pts_per_gw_recent": 8.2,
+        "pts_per_gw_earlier": 3.4,
+        "trend": 4.8
+      },
+      {
+        "web_name": "Szoboszlai",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "recent_pts": 29,
+        "earlier_pts": 8,
+        "pts_per_gw_recent": 5.8,
+        "pts_per_gw_earlier": 1.6,
+        "trend": 4.2
+      },
+      {
+        "web_name": "Gy\u00f6keres",
+        "team_name": "Arsenal",
+        "position": "Forward",
+        "recent_pts": 36,
+        "earlier_pts": 9,
+        "pts_per_gw_recent": 6.0,
+        "pts_per_gw_earlier": 1.8,
+        "trend": 4.2
+      },
+      {
+        "web_name": "Martinez",
+        "team_name": "Aston Villa",
+        "position": "Goalkeeper",
+        "recent_pts": 29,
+        "earlier_pts": 9,
+        "pts_per_gw_recent": 5.8,
+        "pts_per_gw_earlier": 1.8,
+        "trend": 4.0
+      },
+      {
+        "web_name": "Truffert",
+        "team_name": "Bournemouth",
+        "position": "Defender",
+        "recent_pts": 24,
+        "earlier_pts": 10,
+        "pts_per_gw_recent": 4.8,
+        "pts_per_gw_earlier": 2.0,
+        "trend": 2.8
+      },
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "recent_pts": 28,
+        "earlier_pts": 14,
+        "pts_per_gw_recent": 5.6,
+        "pts_per_gw_earlier": 2.8,
+        "trend": 2.8
+      },
+      {
+        "web_name": "Ballard",
+        "team_name": "Sunderland",
+        "position": "Defender",
+        "recent_pts": 20,
+        "earlier_pts": 6,
+        "pts_per_gw_recent": 4.0,
+        "pts_per_gw_earlier": 1.2,
+        "trend": 2.8
+      },
+      {
+        "web_name": "Bowen",
+        "team_name": "West Ham",
+        "position": "Forward",
+        "recent_pts": 31,
+        "earlier_pts": 18,
+        "pts_per_gw_recent": 6.2,
+        "pts_per_gw_earlier": 3.6,
+        "trend": 2.6
+      },
+      {
+        "web_name": "Rogers",
+        "team_name": "Aston Villa",
+        "position": "Midfielder",
+        "recent_pts": 24,
+        "earlier_pts": 12,
+        "pts_per_gw_recent": 4.8,
+        "pts_per_gw_earlier": 2.4,
+        "trend": 2.4
+      },
+      {
+        "web_name": "Semenyo",
+        "team_name": "Man City",
+        "position": "Midfielder",
+        "recent_pts": 35,
+        "earlier_pts": 23,
+        "pts_per_gw_recent": 7.0,
+        "pts_per_gw_earlier": 4.6,
+        "trend": 2.4
+      }
+    ],
+    "falling": [
+      {
+        "web_name": "Collins",
+        "team_name": "Brentford",
+        "position": "Defender",
+        "recent_pts": 3,
+        "earlier_pts": 37,
+        "pts_per_gw_recent": 0.6,
+        "pts_per_gw_earlier": 7.4,
+        "trend": -6.8
+      },
+      {
+        "web_name": "Thiago",
+        "team_name": "Brentford",
+        "position": "Forward",
+        "recent_pts": 13,
+        "earlier_pts": 38,
+        "pts_per_gw_recent": 2.6,
+        "pts_per_gw_earlier": 7.6,
+        "trend": -5.0
+      },
+      {
+        "web_name": "Bruno G.",
+        "team_name": "Newcastle",
+        "position": "Midfielder",
+        "recent_pts": 14,
+        "earlier_pts": 36,
+        "pts_per_gw_recent": 2.8,
+        "pts_per_gw_earlier": 7.2,
+        "trend": -4.4
+      },
+      {
+        "web_name": "Pickford",
+        "team_name": "Everton",
+        "position": "Goalkeeper",
+        "recent_pts": 9,
+        "earlier_pts": 30,
+        "pts_per_gw_recent": 1.8,
+        "pts_per_gw_earlier": 6.0,
+        "trend": -4.2
+      },
+      {
+        "web_name": "Tarkowski",
+        "team_name": "Everton",
+        "position": "Defender",
+        "recent_pts": 10,
+        "earlier_pts": 31,
+        "pts_per_gw_recent": 2.0,
+        "pts_per_gw_earlier": 6.2,
+        "trend": -4.2
+      },
+      {
+        "web_name": "Garner",
+        "team_name": "Everton",
+        "position": "Midfielder",
+        "recent_pts": 14,
+        "earlier_pts": 35,
+        "pts_per_gw_recent": 2.8,
+        "pts_per_gw_earlier": 7.0,
+        "trend": -4.2
+      },
+      {
+        "web_name": "Gabriel",
+        "team_name": "Arsenal",
+        "position": "Defender",
+        "recent_pts": 24,
+        "earlier_pts": 39,
+        "pts_per_gw_recent": 4.0,
+        "pts_per_gw_earlier": 7.8,
+        "trend": -3.8
+      },
+      {
+        "web_name": "Aaronson",
+        "team_name": "Leeds",
+        "position": "Midfielder",
+        "recent_pts": 14,
+        "earlier_pts": 32,
+        "pts_per_gw_recent": 2.8,
+        "pts_per_gw_earlier": 6.4,
+        "trend": -3.6
+      },
+      {
+        "web_name": "Wirtz",
+        "team_name": "Liverpool",
+        "position": "Midfielder",
+        "recent_pts": 19,
+        "earlier_pts": 36,
+        "pts_per_gw_recent": 3.8,
+        "pts_per_gw_earlier": 7.2,
+        "trend": -3.4
+      },
+      {
+        "web_name": "Thiaw",
+        "team_name": "Newcastle",
+        "position": "Defender",
+        "recent_pts": 16,
+        "earlier_pts": 31,
+        "pts_per_gw_recent": 3.2,
+        "pts_per_gw_earlier": 6.2,
+        "trend": -3.0
+      },
+      {
+        "web_name": "Watkins",
+        "team_name": "Aston Villa",
+        "position": "Forward",
+        "recent_pts": 14,
+        "earlier_pts": 28,
+        "pts_per_gw_recent": 2.8,
+        "pts_per_gw_earlier": 5.6,
+        "trend": -2.8
+      },
+      {
+        "web_name": "Romero",
+        "team_name": "Spurs",
+        "position": "Defender",
+        "recent_pts": 8,
+        "earlier_pts": 22,
+        "pts_per_gw_recent": 1.6,
+        "pts_per_gw_earlier": 4.4,
+        "trend": -2.8
+      }
+    ]
+  },
+  "fixture_forecast": {
+    "gameweeks": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "ranking": [
+      {
+        "team": "Liverpool",
+        "avg_fdr": 2.4,
+        "n_easy": 3,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "WHU",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 29,
+            "opponent": "WOL",
+            "venue": "A",
+            "fdr": 2
+          },
+          {
+            "gw": 30,
+            "opponent": "TOT",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "BHA",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "FUL",
+            "venue": "H",
+            "fdr": 2
+          }
+        ]
+      },
+      {
+        "team": "Brentford",
+        "avg_fdr": 2.6,
+        "n_easy": 2,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "BUR",
+            "venue": "A",
+            "fdr": 2
+          },
+          {
+            "gw": 29,
+            "opponent": "BOU",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "WOL",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 31,
+            "opponent": "LEE",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "EVE",
+            "venue": "H",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Fulham",
+        "avg_fdr": 2.6,
+        "n_easy": 2,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "TOT",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "WHU",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 30,
+            "opponent": "NFO",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "BUR",
+            "venue": "H",
+            "fdr": 1
+          },
+          {
+            "gw": 32,
+            "opponent": "LIV",
+            "venue": "A",
+            "fdr": 4
+          }
+        ]
+      },
+      {
+        "team": "Man City",
+        "avg_fdr": 2.75,
+        "n_easy": 2,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "LEE",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "NFO",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 30,
+            "opponent": "WHU",
+            "venue": "A",
+            "fdr": 2
+          },
+          {
+            "gw": 32,
+            "opponent": "CHE",
+            "venue": "A",
+            "fdr": 4
+          }
+        ]
+      },
+      {
+        "team": "Aston Villa",
+        "avg_fdr": 2.8,
+        "n_easy": 2,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "WOL",
+            "venue": "A",
+            "fdr": 2
+          },
+          {
+            "gw": 29,
+            "opponent": "CHE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "MUN",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 31,
+            "opponent": "WHU",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 32,
+            "opponent": "NFO",
+            "venue": "A",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Arsenal",
+        "avg_fdr": 3.0,
+        "n_easy": 0,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "CHE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "BHA",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "EVE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "BOU",
+            "venue": "H",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Burnley",
+        "avg_fdr": 3.0,
+        "n_easy": 0,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "BRE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "EVE",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "BOU",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "FUL",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "BHA",
+            "venue": "H",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Bournemouth",
+        "avg_fdr": 3.0,
+        "n_easy": 2,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "SUN",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 29,
+            "opponent": "BRE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "BUR",
+            "venue": "A",
+            "fdr": 2
+          },
+          {
+            "gw": 31,
+            "opponent": "MUN",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "ARS",
+            "venue": "A",
+            "fdr": 5
+          }
+        ]
+      },
+      {
+        "team": "Brighton",
+        "avg_fdr": 3.0,
+        "n_easy": 2,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "NFO",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 29,
+            "opponent": "ARS",
+            "venue": "H",
+            "fdr": 4
+          },
+          {
+            "gw": 30,
+            "opponent": "SUN",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 31,
+            "opponent": "LIV",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "BUR",
+            "venue": "A",
+            "fdr": 2
+          }
+        ]
+      },
+      {
+        "team": "Crystal Palace",
+        "avg_fdr": 3.0,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "MUN",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 29,
+            "opponent": "TOT",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "LEE",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 32,
+            "opponent": "NEW",
+            "venue": "H",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Man Utd",
+        "avg_fdr": 3.0,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "CRY",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "NEW",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 30,
+            "opponent": "AVL",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "BOU",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "LEE",
+            "venue": "H",
+            "fdr": 2
+          }
+        ]
+      },
+      {
+        "team": "Newcastle",
+        "avg_fdr": 3.0,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "EVE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "MUN",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "CHE",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 31,
+            "opponent": "SUN",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 32,
+            "opponent": "CRY",
+            "venue": "A",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Wolves",
+        "avg_fdr": 3.0,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "AVL",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "LIV",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "BRE",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 32,
+            "opponent": "WHU",
+            "venue": "A",
+            "fdr": 2
+          }
+        ]
+      },
+      {
+        "team": "Leeds",
+        "avg_fdr": 3.2,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "MCI",
+            "venue": "H",
+            "fdr": 4
+          },
+          {
+            "gw": 29,
+            "opponent": "SUN",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 30,
+            "opponent": "CRY",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "BRE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "MUN",
+            "venue": "A",
+            "fdr": 4
+          }
+        ]
+      },
+      {
+        "team": "Nott'm Forest",
+        "avg_fdr": 3.2,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "BHA",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "MCI",
+            "venue": "A",
+            "fdr": 5
+          },
+          {
+            "gw": 30,
+            "opponent": "FUL",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 31,
+            "opponent": "TOT",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "AVL",
+            "venue": "H",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Sunderland",
+        "avg_fdr": 3.2,
+        "n_easy": 0,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "BOU",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "LEE",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "BHA",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "NEW",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 32,
+            "opponent": "TOT",
+            "venue": "H",
+            "fdr": 3
+          }
+        ]
+      },
+      {
+        "team": "Spurs",
+        "avg_fdr": 3.2,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "FUL",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 29,
+            "opponent": "CRY",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "LIV",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 31,
+            "opponent": "NFO",
+            "venue": "H",
+            "fdr": 2
+          },
+          {
+            "gw": 32,
+            "opponent": "SUN",
+            "venue": "A",
+            "fdr": 4
+          }
+        ]
+      },
+      {
+        "team": "Everton",
+        "avg_fdr": 3.4,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "NEW",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 29,
+            "opponent": "BUR",
+            "venue": "H",
+            "fdr": 1
+          },
+          {
+            "gw": 30,
+            "opponent": "ARS",
+            "venue": "A",
+            "fdr": 5
+          },
+          {
+            "gw": 31,
+            "opponent": "CHE",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "BRE",
+            "venue": "A",
+            "fdr": 4
+          }
+        ]
+      },
+      {
+        "team": "West Ham",
+        "avg_fdr": 3.4,
+        "n_easy": 1,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "LIV",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 29,
+            "opponent": "FUL",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 30,
+            "opponent": "MCI",
+            "venue": "H",
+            "fdr": 4
+          },
+          {
+            "gw": 31,
+            "opponent": "AVL",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 32,
+            "opponent": "WOL",
+            "venue": "H",
+            "fdr": 2
+          }
+        ]
+      },
+      {
+        "team": "Chelsea",
+        "avg_fdr": 3.8,
+        "n_easy": 0,
+        "fixtures": [
+          {
+            "gw": 28,
+            "opponent": "ARS",
+            "venue": "A",
+            "fdr": 5
+          },
+          {
+            "gw": 29,
+            "opponent": "AVL",
+            "venue": "A",
+            "fdr": 4
+          },
+          {
+            "gw": 30,
+            "opponent": "NEW",
+            "venue": "H",
+            "fdr": 3
+          },
+          {
+            "gw": 31,
+            "opponent": "EVE",
+            "venue": "A",
+            "fdr": 3
+          },
+          {
+            "gw": 32,
+            "opponent": "MCI",
+            "venue": "H",
+            "fdr": 4
+          }
+        ]
+      }
+    ],
+    "picks": {
+      "Goalkeeper": [
+        {
+          "web_name": "Martinez",
+          "team_name": "Aston Villa",
+          "now_cost": 5.1,
+          "form": 5.8,
+          "total_points": 95,
+          "combined_score": 18.2
+        },
+        {
+          "web_name": "A.Becker",
+          "team_name": "Liverpool",
+          "now_cost": 5.4,
+          "form": 4.2,
+          "total_points": 82,
+          "combined_score": 16.2
+        },
+        {
+          "web_name": "Donnarumma",
+          "team_name": "Man City",
+          "now_cost": 5.6,
+          "form": 4.2,
+          "total_points": 96,
+          "combined_score": 15.15
+        },
+        {
+          "web_name": "Kelleher",
+          "team_name": "Brentford",
+          "now_cost": 4.6,
+          "form": 3.2,
+          "total_points": 98,
+          "combined_score": 13.6
+        },
+        {
+          "web_name": "Raya",
+          "team_name": "Arsenal",
+          "now_cost": 6.0,
+          "form": 3.3,
+          "total_points": 112,
+          "combined_score": 12.6
+        }
+      ],
+      "Defender": [
+        {
+          "web_name": "Virgil",
+          "team_name": "Liverpool",
+          "now_cost": 6.0,
+          "form": 8.0,
+          "total_points": 122,
+          "combined_score": 23.8
+        },
+        {
+          "web_name": "O'Reilly",
+          "team_name": "Man City",
+          "now_cost": 5.0,
+          "form": 8.2,
+          "total_points": 117,
+          "combined_score": 23.15
+        },
+        {
+          "web_name": "Konat\u00e9",
+          "team_name": "Liverpool",
+          "now_cost": 5.4,
+          "form": 6.8,
+          "total_points": 108,
+          "combined_score": 21.4
+        },
+        {
+          "web_name": "Konsa",
+          "team_name": "Aston Villa",
+          "now_cost": 4.4,
+          "form": 4.6,
+          "total_points": 87,
+          "combined_score": 15.8
+        },
+        {
+          "web_name": "Van den Berg",
+          "team_name": "Brentford",
+          "now_cost": 4.5,
+          "form": 3.8,
+          "total_points": 71,
+          "combined_score": 14.8
+        }
+      ],
+      "Midfielder": [
+        {
+          "web_name": "Semenyo",
+          "team_name": "Man City",
+          "now_cost": 8.0,
+          "form": 6.8,
+          "total_points": 157,
+          "combined_score": 20.35
+        },
+        {
+          "web_name": "Iwobi",
+          "team_name": "Fulham",
+          "now_cost": 6.3,
+          "form": 5.2,
+          "total_points": 79,
+          "combined_score": 17.6
+        },
+        {
+          "web_name": "Mac Allister",
+          "team_name": "Liverpool",
+          "now_cost": 6.2,
+          "form": 4.8,
+          "total_points": 65,
+          "combined_score": 17.4
+        },
+        {
+          "web_name": "O.Dango",
+          "team_name": "Brentford",
+          "now_cost": 5.9,
+          "form": 4.8,
+          "total_points": 89,
+          "combined_score": 16.8
+        },
+        {
+          "web_name": "Rogers",
+          "team_name": "Aston Villa",
+          "now_cost": 7.7,
+          "form": 4.8,
+          "total_points": 127,
+          "combined_score": 16.2
+        }
+      ],
+      "Forward": [
+        {
+          "web_name": "Haaland",
+          "team_name": "Man City",
+          "now_cost": 14.8,
+          "form": 6.8,
+          "total_points": 193,
+          "combined_score": 20.35
+        },
+        {
+          "web_name": "Ra\u00fal",
+          "team_name": "Fulham",
+          "now_cost": 6.1,
+          "form": 5.8,
+          "total_points": 94,
+          "combined_score": 18.8
+        },
+        {
+          "web_name": "Gy\u00f6keres",
+          "team_name": "Arsenal",
+          "now_cost": 8.8,
+          "form": 6.0,
+          "total_points": 91,
+          "combined_score": 18.0
+        },
+        {
+          "web_name": "Ekitik\u00e9",
+          "team_name": "Liverpool",
+          "now_cost": 8.9,
+          "form": 4.8,
+          "total_points": 106,
+          "combined_score": 17.4
+        },
+        {
+          "web_name": "Flemming",
+          "team_name": "Burnley",
+          "now_cost": 5.3,
+          "form": 3.5,
+          "total_points": 56,
+          "combined_score": 13.0
+        }
+      ]
+    }
+  },
+  "transfer_roi": {
+    "risers": [
+      {
+        "web_name": "Gabriel",
+        "team_name": "Arsenal",
+        "position": "Defender",
+        "start_price": 6.0,
+        "end_price": 7.1,
+        "price_change": 1.1,
+        "total_pts": 144
+      },
+      {
+        "web_name": "Rice",
+        "team_name": "Arsenal",
+        "position": "Midfielder",
+        "start_price": 6.5,
+        "end_price": 7.6,
+        "price_change": 1.1,
+        "total_pts": 152
+      },
+      {
+        "web_name": "Semenyo",
+        "team_name": "Man City",
+        "position": "Midfielder",
+        "start_price": 7.0,
+        "end_price": 8.0,
+        "price_change": 1.0,
+        "total_pts": 157
+      },
+      {
+        "web_name": "Thiago",
+        "team_name": "Brentford",
+        "position": "Forward",
+        "start_price": 6.0,
+        "end_price": 7.0,
+        "price_change": 1.0,
+        "total_pts": 135
+      },
+      {
+        "web_name": "J.Timber",
+        "team_name": "Arsenal",
+        "position": "Defender",
+        "start_price": 5.5,
+        "end_price": 6.4,
+        "price_change": 0.9,
+        "total_pts": 127
+      },
+      {
+        "web_name": "Chalobah",
+        "team_name": "Chelsea",
+        "position": "Defender",
+        "start_price": 5.0,
+        "end_price": 5.8,
+        "price_change": 0.8,
+        "total_pts": 126
+      },
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "position": "Forward",
+        "start_price": 14.0,
+        "end_price": 14.8,
+        "price_change": 0.8,
+        "total_pts": 193
+      },
+      {
+        "web_name": "B.Fernandes",
+        "team_name": "Man Utd",
+        "position": "Midfielder",
+        "start_price": 9.0,
+        "end_price": 9.8,
+        "price_change": 0.8,
+        "total_pts": 145
+      },
+      {
+        "web_name": "Rogers",
+        "team_name": "Aston Villa",
+        "position": "Midfielder",
+        "start_price": 7.0,
+        "end_price": 7.7,
+        "price_change": 0.7,
+        "total_pts": 127
+      },
+      {
+        "web_name": "Gu\u00e9hi",
+        "team_name": "Man City",
+        "position": "Defender",
+        "start_price": 4.5,
+        "end_price": 5.2,
+        "price_change": 0.7,
+        "total_pts": 126
+      }
+    ],
+    "fallers": [
+      {
+        "web_name": "Watkins",
+        "team_name": "Aston Villa",
+        "position": "Forward",
+        "start_price": 9.0,
+        "end_price": 8.6,
+        "price_change": -0.4,
+        "total_pts": 97
+      },
+      {
+        "web_name": "Ra\u00fal",
+        "team_name": "Fulham",
+        "position": "Forward",
+        "start_price": 6.5,
+        "end_price": 6.1,
+        "price_change": -0.4,
+        "total_pts": 94
+      },
+      {
+        "web_name": "Bowen",
+        "team_name": "West Ham",
+        "position": "Forward",
+        "start_price": 8.0,
+        "end_price": 7.6,
+        "price_change": -0.4,
+        "total_pts": 124
+      },
+      {
+        "web_name": "Ndiaye",
+        "team_name": "Everton",
+        "position": "Midfielder",
+        "start_price": 6.5,
+        "end_price": 6.2,
+        "price_change": -0.3,
+        "total_pts": 90
+      },
+      {
+        "web_name": "Stach",
+        "team_name": "Leeds",
+        "position": "Midfielder",
+        "start_price": 5.0,
+        "end_price": 4.7,
+        "price_change": -0.3,
+        "total_pts": 108
+      },
+      {
+        "web_name": "Saka",
+        "team_name": "Arsenal",
+        "position": "Midfielder",
+        "start_price": 10.0,
+        "end_price": 9.8,
+        "price_change": -0.2,
+        "total_pts": 119
+      },
+      {
+        "web_name": "Trossard",
+        "team_name": "Arsenal",
+        "position": "Midfielder",
+        "start_price": 7.0,
+        "end_price": 6.8,
+        "price_change": -0.2,
+        "total_pts": 97
+      },
+      {
+        "web_name": "Zubimendi",
+        "team_name": "Arsenal",
+        "position": "Midfielder",
+        "start_price": 5.5,
+        "end_price": 5.3,
+        "price_change": -0.2,
+        "total_pts": 109
+      },
+      {
+        "web_name": "O.Dango",
+        "team_name": "Brentford",
+        "position": "Midfielder",
+        "start_price": 6.0,
+        "end_price": 5.8,
+        "price_change": -0.2,
+        "total_pts": 89
+      },
+      {
+        "web_name": "Tavernier",
+        "team_name": "Bournemouth",
+        "position": "Midfielder",
+        "start_price": 5.5,
+        "end_price": 5.3,
+        "price_change": -0.2,
+        "total_pts": 95
+      }
+    ],
+    "knee_jerks": [
+      {
+        "web_name": "Foden",
+        "team_name": "Man City",
+        "gw": 16,
+        "gw_points": 11,
+        "transfers_in": 1670976,
+        "next_3gw_avg": 2.7
+      },
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "gw": 18,
+        "gw_points": 5,
+        "transfers_in": 1386836,
+        "next_3gw_avg": 0.7
+      },
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "gw": 17,
+        "gw_points": 9,
+        "transfers_in": 1036166,
+        "next_3gw_avg": 2.3
+      },
+      {
+        "web_name": "Thiago",
+        "team_name": "Brentford",
+        "gw": 13,
+        "gw_points": 13,
+        "transfers_in": 967569,
+        "next_3gw_avg": 1.7
+      },
+      {
+        "web_name": "B.Fernandes",
+        "team_name": "Man Utd",
+        "gw": 16,
+        "gw_points": 13,
+        "transfers_in": 962026,
+        "next_3gw_avg": 0.3
+      },
+      {
+        "web_name": "Foden",
+        "team_name": "Man City",
+        "gw": 17,
+        "gw_points": 3,
+        "transfers_in": 908720,
+        "next_3gw_avg": 2.3
+      },
+      {
+        "web_name": "Cash",
+        "team_name": "Aston Villa",
+        "gw": 16,
+        "gw_points": 0,
+        "transfers_in": 861515,
+        "next_3gw_avg": 1.0
+      },
+      {
+        "web_name": "Semenyo",
+        "team_name": "Man City",
+        "gw": 8,
+        "gw_points": 4,
+        "transfers_in": 820587,
+        "next_3gw_avg": 1.7
+      },
+      {
+        "web_name": "Jo\u00e3o Pedro",
+        "team_name": "Chelsea",
+        "gw": 4,
+        "gw_points": 7,
+        "transfers_in": 784158,
+        "next_3gw_avg": 2.0
+      },
+      {
+        "web_name": "Enzo",
+        "team_name": "Chelsea",
+        "gw": 24,
+        "gw_points": 8,
+        "transfers_in": 745010,
+        "next_3gw_avg": 2.0
+      },
+      {
+        "web_name": "Chalobah",
+        "team_name": "Chelsea",
+        "gw": 16,
+        "gw_points": 9,
+        "transfers_in": 742502,
+        "next_3gw_avg": 1.3
+      },
+      {
+        "web_name": "Thiago",
+        "team_name": "Brentford",
+        "gw": 21,
+        "gw_points": 12,
+        "transfers_in": 732380,
+        "next_3gw_avg": 2.0
+      },
+      {
+        "web_name": "B.Fernandes",
+        "team_name": "Man Utd",
+        "gw": 25,
+        "gw_points": 10,
+        "transfers_in": 702993,
+        "next_3gw_avg": 2.0
+      },
+      {
+        "web_name": "Dewsbury-Hall",
+        "team_name": "Everton",
+        "gw": 16,
+        "gw_points": 1,
+        "transfers_in": 660145,
+        "next_3gw_avg": 0.0
+      },
+      {
+        "web_name": "Gakpo",
+        "team_name": "Liverpool",
+        "gw": 3,
+        "gw_points": 3,
+        "transfers_in": 655549,
+        "next_3gw_avg": 2.0
+      }
+    ]
+  },
+  "insights": {
+    "top_scorer": {
+      "name": "Haaland",
+      "team": "Man City",
+      "points": 193
+    },
+    "total_players": 818,
+    "active_players": 362,
+    "overvalued": [
+      {
+        "web_name": "Palmer",
+        "team_name": "Chelsea",
+        "selected_by_percent": 17.0,
+        "value": 7.74
+      },
+      {
+        "web_name": "Ekitik\u00e9",
+        "team_name": "Liverpool",
+        "selected_by_percent": 26.4,
+        "value": 11.91
+      },
+      {
+        "web_name": "Haaland",
+        "team_name": "Man City",
+        "selected_by_percent": 67.3,
+        "value": 13.04
+      }
+    ],
+    "hidden_gems": [
+      {
+        "web_name": "Stach",
+        "team_name": "Leeds",
+        "selected_by_percent": 1.9,
+        "value": 22.98,
+        "total_points": 108,
+        "now_cost": 4.7
+      },
+      {
+        "web_name": "Van Hecke",
+        "team_name": "Brighton",
+        "selected_by_percent": 3.6,
+        "value": 22.95,
+        "total_points": 101,
+        "now_cost": 4.4
+      },
+      {
+        "web_name": "Keane",
+        "team_name": "Everton",
+        "selected_by_percent": 3.5,
+        "value": 22.83,
+        "total_points": 105,
+        "now_cost": 4.6
+      },
+      {
+        "web_name": "Richards",
+        "team_name": "Crystal Palace",
+        "selected_by_percent": 2.7,
+        "value": 22.5,
+        "total_points": 99,
+        "now_cost": 4.4
+      },
+      {
+        "web_name": "Ballard",
+        "team_name": "Sunderland",
+        "selected_by_percent": 3.1,
+        "value": 21.96,
+        "total_points": 101,
+        "now_cost": 4.6
+      }
+    ]
+  },
+  "position_stats": [
+    {
+      "position": "Defender",
+      "count": 132,
+      "avg_points": 62.26,
+      "avg_price": 4.66,
+      "avg_value": 13.15
+    },
+    {
+      "position": "Forward",
+      "count": 36,
+      "avg_points": 70.81,
+      "avg_price": 6.6,
+      "avg_value": 10.65
+    },
+    {
+      "position": "Goalkeeper",
+      "count": 26,
+      "avg_points": 68.35,
+      "avg_price": 4.75,
+      "avg_value": 14.1
+    },
+    {
+      "position": "Midfielder",
+      "count": 168,
+      "avg_points": 63.84,
+      "avg_price": 5.73,
+      "avg_value": 11.1
+    }
+  ]
+}
